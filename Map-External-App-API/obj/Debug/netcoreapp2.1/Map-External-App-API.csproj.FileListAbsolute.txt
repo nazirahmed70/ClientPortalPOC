@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\bin\Debug\netcoreapp2.1\Map-External-App-API.deps.json
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\bin\Debug\netcoreapp2.1\Map-External-App-API.runtimeconfig.json
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\bin\Debug\netcoreapp2.1\Map-External-App-API.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\bin\Debug\netcoreapp2.1\Map-External-App-API.dll
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\bin\Debug\netcoreapp2.1\Map-External-App-API.pdb
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\obj\Debug\netcoreapp2.1\Map-External-App-API.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\obj\Debug\netcoreapp2.1\Map-External-App-API.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\obj\Debug\netcoreapp2.1\Map-External-App-API.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\obj\Debug\netcoreapp2.1\Map-External-App-API.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\obj\Debug\netcoreapp2.1\Map-External-App-API.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\obj\Debug\netcoreapp2.1\Map-External-App-API.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\obj\Debug\netcoreapp2.1\Map-External-App-API.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\obj\Debug\netcoreapp2.1\Map-External-App-API.dll
+C:\Users\Administrator\source\repos\Map-External-App-API\Map-External-App-API\obj\Debug\netcoreapp2.1\Map-External-App-API.pdb
